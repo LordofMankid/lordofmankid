@@ -2,7 +2,6 @@
 
 I’m a recent Tufts University graduate and full-stack developer with a B.S. in Computer Science based in the Boston area. I'm most excited by roles for mission-driven startups and nonprofits. Check out my portfolio [here](https://www.clarence-yeh.dev/)
 
----
 ## What am I up to?
 
 ### Freebites
